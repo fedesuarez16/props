@@ -1,0 +1,295 @@
+id,tipo_de_propiedad,direccion,zona,valor,dormitorios,banos,patio_parque,garage,mts_const,lote,piso,link,columna_1,apto_banco,alternativa_menor_1,alternativa_menor_2,alternativa_menor_3,alterniva_menor_4,alternativa_menor_5,.,alternativa_mayor,alternativa_mayor_2,alternativa_mayor_3,alternativa_mayor_4,alternativa_mayor_5
+1,Casa,Country Abril,Hudson,USD1.100.000,3,3,"Parque ",3,509,1512,,https://www.remax.com.ar/420161202-306,Team Ali,NO,https://www.remax.com.ar/420161156-217?associate=420161202,https://www.remax.com.ar/421061009-265?associate=420161202,https://www.remax.com.ar/420171059-1051?associate=420161202,https://www.remax.com.ar/420531090-199?associate=420161202,https://www.remax.com.ar/420161503-418?associate=420161202,,https://web.redremax.com/371296-24?associate=420161202,https://web.redremax.com/420161156-198?associate=420161202,https://web.redremax.com/420171211-178?associate=420161202,https://web.redremax.com/420161402-24?associate=420161202,https://web.redremax.com/421531025-601?associate=420161202
+2,Casa,31 e/425 y 426,Villa Elisa,USD280.000,3,2,"Parque ",3,969,340,,https://www.remax.com.ar/420161237-149,Team Ali,NO,https://www.remax.com.ar/420441083-177?associate=420161202,https://www.remax.com.ar/420711258-14?associate=420161202,https://www.remax.com.ar/420161237-156?associate=420161202,https://www.remax.com.ar/420711186-188?associate=420161202,https://www.remax.com.ar/421921022-8?associate=420161202,,https://www.remax.com.ar/420161139-77?associate=420161202,https://www.remax.com.ar/420161273-77?associate=420161202,https://www.remax.com.ar/420161318-12?associate=420161202,https://www.remax.com.ar/420711258-14?associate=420161202,https://www.remax.com.ar/420711104-134?associate=420161202
+3,Casa,19 Bis e/421 y 422,Villa Elisa,USD320.000,3,2,"Parque ",3,759,969,,https://www.remax.com.ar/420161237-148,Team Ali,NO,https://www.remax.com.ar/420161185-117?associate=420161202,https://www.remax.com.ar/420711258-14?associate=420161202,https://www.remax.com.ar/420161318-12?associate=420161202,https://www.remax.com.ar/420161273-77?associate=420161202,https://www.remax.com.ar/420161139-77?associate=420161202,,https://www.remax.com.ar/421941006-32?associate=420161202,https://www.remax.com.ar/420161141-166?associate=420161202,https://www.remax.com.ar/420711104-134?associate=420161202,https://www.remax.com.ar/420161417-17?associate=420161202,
+4,Casa,424 esq.135,Villa Elisa,USD170.000,2,1,"Parque ",2,190,759,,https://www.remax.com.ar/420161237-156?,Team Ali,NO,https://www.remax.com.ar/420161318-20?associate=420161202,https://www.remax.com.ar/420161481-1?associate=420161202,https://www.remax.com.ar/420161310-24?associate=420161202,https://www.remax.com.ar/420161310-49?associate=420161202,https://www.remax.com.ar/420161310-49?associate=420161202,,https://www.remax.com.ar/420711186-165?associate=420161202,https://www.remax.com.ar/421921022-8?associate=420161202,https://www.remax.com.ar/420711104-134?associate=420161202,https://www.remax.com.ar/420161417-8?associate=420161202,
+5,Casa,473 e/139 y 141,Villa Elisa,USD199.000,3,4,"Parque ",3,370,1450,,https://www.remax.com.ar/420161202-343,Team Ali,SI,https://www.remax.com.ar/420711178-57?associate=420161202,https://www.remax.com.ar/420441151-66?associate=420161202,https://www.remax.com.ar/420161322-52?associate=420161202,https://www.remax.com.ar/420161322-52?associate=420161202,https://www.remax.com.ar/420161181-181?associate=420161202,,https://www.remax.com.ar/420161200-334?associate=420161202,https://www.remax.com.ar/420161159-163?associate=420161202,https://www.remax.com.ar/420441101-143?associate=420161202,https://www.remax.com.ar/420711122-107?associate=420161202,
+7,Casa,139 e/64 y 65,Lo Hornos,USD128.000,3,2,"Parque ",2,138,450,,https://www.remax.com.ar/420161202-465,Team Ali,SI,"📍146 e/ 57 y 58 | 🛏️3 dorm | 📏 110 m² | 🌳Pileta | 💰 USD $167.000
+https://www.remax.com.ar/420341174-28?associate=420161202
+
+📍147 e/ 57 y 58 | 🛏️3 dorm | 📏 177 m² | 🌳Pileta | 💰 USD $108.000
+https://www.remax.com.ar/421921037-104?associate=420161202
+
+📍138 e/ 56 y 57 | 🛏️3 dorm | 📏 180 m² | 🌳Parque | 💰 USD $120.000
+https://www.remax.com.ar/421941006-53?associate=420161202
+
+📍60 e/ 140 y 141 | 🛏️3 dorm | 📏 135  m² | 🌳Parque| 💰 USD $115.000
+https://www.remax.com.ar/420711175-42?associate=420161202
+",,,,,,"
+📍67 e/ 143  y 144 | 🛏️3 dorm | 📏 195  m² | 🌳Pileta | 💰 USD $139.000
+https://www.remax.com.ar/420161200-331?associate=420161202
+
+📍67 e/ 139  y 140 | 🛏️4 dorm | 📏 171  m² | 🌳Pileta | 💰 USD $160.000
+https://www.remax.com.ar/420711251-120?associate=420161202
+📍63 esq 135 | 🛏️3 dorm | 📏 250  m² | 🌳Parque | 💰 USD $170.000
+https://www.remax.com.ar/420711103-269?associate=420161202
+
+📍142 e/ 60 y 61 | 🛏️3 dorm | 📏 125  m² | 🌳Pileta | 💰 USD $149.500
+https://www.remax.com.ar/421921005-83?associate=420161202
+
+📍144 e/ 60 y 61 | 🛏️3 dorm | 📏 120  m² | 🌳Parque | 💰 USD $145.000
+https://www.remax.com.ar/420161237-158?associate=420161202
+",,,,
+8,Casa,42 e/22 y 23,La Plata,USD280.000,3,2,"Parque ",1,338,482,,https://www.remax.com.ar/420161202-463,Team Ali,NO,https://www.remax.com.ar/421941038-19?associate=420161202,https://www.remax.com.ar/421941051-56?associate=420161202,https://www.remax.com.ar/421941025-106?associate=420161202,https://www.remax.com.ar/420161156-205?associate=420161202,https://www.remax.com.ar/420161164-258?associate=420161202,,https://www.remax.com.ar/420711093-123?associate=420161202,https://www.remax.com.ar/420711263-235?associate=420161202,https://www.remax.com.ar/420711174-80?associate=420161202,https://www.remax.com.ar/420161273-79?associate=420161202,https://www.remax.com.ar/420711258-13?associate=420161202
+9,Lote,26 e/501 y 502,Manuel Gonnet,USD79.000,,,,,,347,,https://www.remax.com.ar/420161202-464,Team Ali,NO,https://www.remax.com.ar/421941012-72?associate=420161202,https://www.remax.com.ar/420711245-22?associate=420161202,https://www.remax.com.ar/420341149-57?associate=420161202,https://www.remax.com.ar/420341105-149?associate=420161202,https://www.remax.com.ar/421921036-3?associate=420161202,,https://www.remax.com.ar/420711091-84?associate=420161202,https://www.remax.com.ar/420441142-61?associate=420161202,https://www.remax.com.ar/420161079-346?associate=420161202,https://www.remax.com.ar/421921006-77?associate=420161202,https://www.remax.com.ar/420711168-36?associate=420161202
+10,Casa,510 e/15 y 16,Manuel Gonnet,USD179.000,3,2,Parque,1,130,300,,https://www.remax.com.ar/420161202-461,Team Ali,SI,https://www.remax.com.ar/420161156-226?associate=420161202,https://www.remax.com.ar/421921005-73?associate=420161202,https://www.remax.com.ar/420161164-287?associate=420161202,https://www.remax.com.ar/420161164-263?associate=420161202,https://www.remax.com.ar/420441128-309?associate=420161202,,https://www.remax.com.ar/420161164-262?associate=420161202,https://www.remax.com.ar/420711085-115?associate=420161202,https://www.remax.com.ar/420711174-83?associate=420161202,https://www.remax.com.ar/420161322-61?associate=420161202,https://www.remax.com.ar/420161164-300?associate=420161202
+11,Casa,116 e/ 34 y 35,La Plata,USD115.000,2,1,"Parque ",1,110,176,,https://www.remax.com.ar/420161202-458,Team Ali,SI,"📍35 e/ 120 y 121 | 🛏️ 3 dorm | 📏134  m² | 🌳  Parque | 💰 USD $105.000
+https://www.remax.com.ar/421921036-17?associate=420161202
+
+📍119 e/ 35 y 36 | 🛏️ 2 dorm | 📏78  m² | 🌳  Parque | 💰 USD $73.000
+https://www.remax.com.ar/421941047-9?associate=420161202
+
+📍40 e/ 115 y 116 | 🛏️ 2 dorm | 📏140  m² | 🌳  Parque | 💰 USD $115.000
+https://www.remax.com.ar/420711126-121?associate=420161202
+
+📍532 e/ 121 y 122 | 🛏️ 4 dorm | 📏150  m² | 🌳  Parque | 💰 USD $110.000
+ https://ficha.propio.com.ar/0f2gga1GOOXyopRP
+
+",,,,,,"📍38 E/ 15 Y 16 | 🛏️ 2 dorm | 📏74  m² | 🌳  Parque | 💰 USD $119.000
+https://www.remax.com.ar/420711115-138?associate=420161202
+
+📍18 e/ 46 y 47| 🛏️ 2 dorm | 📏92  m² | 🌳  Parque | 💰 USD $129.000
+https://www.remax.com.ar/420161185-157?associate=420161202
+
+📍2 e/ 63 y 64| 🛏️ 2 dorm | 📏150  m² | 🌳  Pileta  | 💰 USD $140.000
+https://www.remax.com.ar/420161381-62?associate=420161202
+
+📍32 e/ 5 y 6 | 🛏️ 3 dorm | 📏175  m² | 🌳  Parque  | 💰 USD $160.000
+https://www.remax.com.ar/420711247-38?associate=420161202
+
+📍47 e/ 28 y 29 | 🛏️ 3 dorm | 📏130  m² | 🌳  Pileta  | 💰 USD $189.900
+https://www.remax.com.ar/420711197-105?associate=420161202
+","📍43 e/ 17 y 18 | 🛏️ 3 dorm | 📏164  m² | 🌳  Parque  | 💰 USD $220.000
+https://www.remax.com.ar/420341122-182?associate=420161202
+
+📍28 e/ 57 y 58 | 🛏️ 3 dorm | 📏165  m² | 🌳  Pileta  | 💰 USD $190.000
+https://www.remax.com.ar/420161086-201?associate=420161202
+
+
+📍2 e/ 36 y 37 | 🛏️ 3 dorm | 📏228  m² | 🌳  Parque  | 💰 USD $172.000
+https://www.remax.com.ar/420341184-12?associate=420161202
+
+📍32 e/ 118 y 119 | 🛏️ 3 dorm | 📏249  m² | 🌳  Parque  | 💰 USD $190.000
+https://www.remax.com.ar/420341114-138?associate=420161202
+
+",,,
+12,Lote,139 e/ 90 y 96,Fincas de Duggan,USD153.000,,,,,,1631,,https://www.remax.com.ar/420161202-453,Team Ali,NO,https://www.remax.com.ar/420711095-109?associate=420161202,https://www.remax.com.ar/420161043-468?associate=420161202,https://www.remax.com.ar/420161380-54?associate=420161202,https://www.remax.com.ar/420341137-22?associate=420161202,,,https://www.remax.com.ar/420711145-82?associate=420161202,https://www.remax.com.ar/420341064-239?associate=420161202,https://www.remax.com.ar/421941038-29?associate=420161202,https://www.remax.com.ar/420441165-33?associate=420161202,https://web.redremax.com/420341122-181?associate=420161202
+13,Lote,Haras del Sur III,Haras del Sur III,USD26.000,,,,,,918,,https://www.remax.com.ar/420161202-445,Team Ali,NO,https://web.redremax.com/421731007-73?associate=420161202,https://web.redremax.com/421301061-3?associate=420161202,https://web.redremax.com/420341141-68?associate=420161202,https://web.redremax.com/420341141-141?associate=420161202,https://web.redremax.com/420341141-134?associate=420161202,,https://www.remax.com.ar/420341200-11?associate=420161202,https://web.redremax.com/420161181-131?associate=420161202,https://web.redremax.com/420341200-11?associate=420161202,https://web.redremax.com/420221198-196?associate=420161202,https://www.remax.com.ar/420971204-9?associate=420161202
+14,Lote,501 e/ 135 Y 137,Don Carlos,USD99.900,,,,,,685,,https://www.remax.com.ar/420161202-443,Team Ali,NO,https://web.redremax.com/420341143-46?associate=420161202,https://web.redremax.com/420711104-166?associate=420161202,https://web.redremax.com/420341163-75?associate=420161202,https://web.redremax.com/420711032-324?associate=420161202,https://web.redremax.com/420441142-61?associate=420161202,,https://www.remax.com.ar/420711104-166?associate=420161202,https://www.remax.com.ar/420341143-46?associate=420161202,https://www.remax.com.ar/421941012-70?associate=420161202,https://www.remax.com.ar/420161399-12?associate=420161202,https://web.redremax.com/421921012-38?associate=420161202
+15,Departamento,Plaza Paso e/13 y 44,La plata,USD265.000,3,2,,1,133,142,1,https://www.remax.com.ar/420161202-442,Team Ali,SI,"📍Plaza Paso 100 | 🛏️2 dorm | 📏 79 m² |🏢  Balcón |💰 USD $147.000
+https://www.remax.com.ar/420711108-203?associate=420161202
+
+📍19 e/ 39 y 40 | 🛏️3 dorm | 📏 140 m² |🏢  Balcón |💰 USD $200.000
+https://www.remax.com.ar/420161164-299?associate=420161202
+
+📍25 e/ 58 y 59 | 🛏️3 dorm | 📏 163 m² |🏢  Balcón |💰 USD $210.000
+https://www.remax.com.ar/420161408-19?associate=420161202
+
+📍54 e/ 26 y 27 | 🛏️3 dorm | 📏 100 m² |🏢  Balcón |💰 USD $215.000
+https://www.remax.com.ar/420711262-115?associate=420161202
+
+📍44 e/ 16 y 17 | 🛏️3 dorm | 📏 126 m² |🏢  Balcón |💰 USD $232.000
+https://www.remax.com.ar/420161164-283?associate=420161202
+","📍36 e/ 7 y 8 | 🛏️4 dorm | 📏 135 m² |🏢  Balcón |💰 USD $260.000
+https://www.remax.com.ar/420711095-87?associate=420161202
+
+
+📍36 e/ 7 y 8 | 🛏️3 dorm | 📏 143 m² |🏢  Balcón |💰 USD $259.000
+https://www.remax.com.ar/421921006-69?associate=420161202
+
+📍36 e/ 7 y 8 | 🛏️3 dorm | 📏 137 m² |🏢  Balcón |💰 USD $265.000
+https://www.remax.com.ar/420711104-31?associate=420161202
+
+
+",,,,,"📍47 e/ 12 y 13 | 🛏️3 dorm | 📏 147 m² |🏢  Balcón |💰 USD $290.000
+https://www.remax.com.ar/420711158-70?associate=420161202
+
+📍9 e/ 51 y 53 | 🛏️3 dorm | 📏 128 m² |🏢  Balcón |💰 USD $270.000
+https://www.remax.com.ar/420711174-70?associate=420161202
+
+📍7 e/ 39 y Plaza Olazabal | 🛏️3 dorm | 📏 122 m² |🏢  Balcón |💰 USD $295.000
+https://www.remax.com.ar/420341141-41?associate=420161202
+",,,,
+16,Casa,49 e/ 26 y 27,La Plata,USD150.000,3,2,"Parque ",1,170,291,,https://www.remax.com.ar/420161202-354,Team Ali,NO,https://web.redremax.com/420711074-866?associate=420161202,https://web.redremax.com/420161402-18?associate=420161202,https://web.redremax.com/420161026-494?associate=420161202,https://web.redremax.com/420161164-258?associate=420161202,https://web.redremax.com/420711129-259?associate=420161202,,https://web.redremax.com/420341179-8?associate=420161202,https://web.redremax.com/420711197-105?associate=420161202,https://web.redremax.com/420161503-417?associate=420161202,https://web.redremax.com/420161202-463?associate=420161202,https://web.redremax.com/420341122-182?associate=420161202
+17,Casa,63 e/ 139 y 140,Los Hornos,USD65.000,2,1,Patio,1,100,110,,https://www.remax.com.ar/420161237-105,Team Ali,NO,https://www.remax.com.ar/420341188-40?associate=420161202,https://www.remax.com.ar/420441113-129?associate=420161202,https://www.remax.com.ar/421941012-69?associate=420161202,https://www.remax.com.ar/421941006-52?associate=420161202,,,https://www.remax.com.ar/421921037-104?associate=420161202,https://www.remax.com.ar/421941019-64?associate=420161202,https://www.remax.com.ar/420341134-80?associate=420161202,https://www.remax.com.ar/420711241-16?associate=420161202,https://www.remax.com.ar/421921037-103?associate=420161202
+18,Casa,530 e/ 4bis y 5,Tolosa,USD140.000,3,3,Patio,1,180,258,,https://www.remax.com.ar/420161202-484?associate=420161202,Team Ali,NO,https://web.redremax.com/421921007-25?associate=420161202,https://web.redremax.com/420711152-91?associate=420161202,https://web.redremax.com/420161268-68?associate=420161202,https://web.redremax.com/421941047-50?associate=420161202,https://web.redremax.com/420711093-80?associate=420161202,,https://web.redremax.com/420161359-33?associate=420161202,https://web.redremax.com/420711134-145?associate=420161202,https://web.redremax.com/420161273-70?associate=420161202,https://web.redremax.com/420711112-142?associate=420161202,https://web.redremax.com/420711112-145?associate=420161202
+19,Departamento,30 esq 41,La plata,USD86.000,1,1,,1,51,56,5,https://www.remax.com.ar/420161237-137,Team Ali,NO,https://www.remax.com.ar/420341184-17?associate=420161202,https://www.remax.com.ar/422121013-4?associate=420161202,https://www.remax.com.ar/420161156-204?associate=420161202,https://www.remax.com.ar/420161399-47?associate=420161202,https://www.remax.com.ar/420711174-79?associate=420161202,,https://www.remax.com.ar/420711126-120?associate=420161202,https://www.remax.com.ar/421941022-35?associate=420161202,https://www.remax.com.ar/420161073-259?associate=420161202,https://www.remax.com.ar/420711074-831?associate=420161202,https://www.remax.com.ar/420341144-38?associate=420161202
+20,Departamento,2 e/ 33 y 34,La plata,USD80.000,2,1,,1,83,83,1,https://www.remax.com.ar/420161237-141,Team Ali,NO,https://www.remax.com.ar/421941016-22?associate=420161202,https://www.remax.com.ar/420341144-43?associate=420161202,https://www.remax.com.ar/420711152-66?associate=420161202,https://www.remax.com.ar/420711115-141?associate=420161202,https://www.remax.com.ar/420161314-27?associate=420161202,,https://www.remax.com.ar/420711271-1?associate=420161202,https://www.remax.com.ar/421921040-16?associate=420161202,https://www.remax.com.ar/420161310-42?associate=420161202,https://www.remax.com.ar/420441023-475?associate=420161202,https://www.remax.com.ar/420711222-152?associate=420161202
+21,Casa,502 e/ 17 y 18,Manuel Gonnet,USD280.000,4,3,"Parque ",3,256,400,,https://www.remax.com.ar/420161237-157,Team Ali,NO,https://www.remax.com.ar/420161156-226?associate=420161237,https://www.remax.com.ar/420711129-255?associate=420161237,https://www.remax.com.ar/420161085-559?associate=420161237,https://www.remax.com.ar/420161164-287?associate=420161237,https://www.remax.com.ar/420161164-263?associate=420161237,,https://www.remax.com.ar/420161322-61?associate=420161237,https://www.remax.com.ar/420161486-9?associate=420161237,https://www.remax.com.ar/420161422-18?associate=420161237,https://www.remax.com.ar/420161408-31?associate=420161237,https://www.remax.com.ar/420161137-499?associate=420161202
+22,Casa,15a e/ 460 y  461,City Bell,USD65.000,2,1,"Parque ",1,68,343,,https://www.remax.com.ar/420161237-161,Team Ali,SI,https://www.remax.com.ar/420161381-52?associate=420161202,https://www.remax.com.ar/421941012-2?associate=420161202,https://www.remax.com.ar/420161381-68?associate=420161202,https://www.remax.com.ar/420161419-285?associate=420161202,https://www.remax.com.ar/420161408-32?associate=420161202,,https://www.remax.com.ar/420711129-214?associate=420161202,https://www.remax.com.ar/420711129-214?associate=420161202,https://www.remax.com.ar/420161361-28?associate=420161202,https://www.remax.com.ar/421941046-3?associate=420161202,https://www.remax.com.ar/420161408-33?associate=420161202
+23,Casa,13 esq 487,Manuel Gonnet,USD365.000,3,2,"Parque ",2,140,2823,,https://www.remax.com.ar/420161237-159,Team Ali,SI,https://www.remax.com.ar/420711134-141?associate=420161202,https://www.remax.com.ar/421941005-74?associate=420161202,https://www.remax.com.ar/420711174-83?associate=420161202,https://www.remax.com.ar/420161282-96?associate=420161202,https://www.remax.com.ar/420161486-9?associate=420161202,,https://www.remax.com.ar/420711158-104?associate=420161202,https://www.remax.com.ar/420711104-185?associate=420161202,https://www.remax.com.ar/420161202-474,https://www.remax.com.ar/421941025-60?associate=420161202,https://www.remax.com.ar/420161202-467?associate=420161202
+24,Oficina,Santiago del estero al 315,"Monserrat, Buenos Aires",USD99.000,monoambiente,,,1,155,155,6,https://www.remax.com.ar/420161237-160,Team Ali,NO,https://www.remax.com.ar/420281236-101?associate=420161202,https://www.remax.com.ar/181551-345?associate=420161202,https://www.remax.com.ar/421131008-246?associate=420161202,https://www.remax.com.ar/371334-253?associate=420161202,https://www.remax.com.ar/421561006-30?associate=420161202,,https://www.remax.com.ar/421521038-30?associate=420161202,https://www.remax.com.ar/421231040-206?associate=420161202,https://www.remax.com.ar/420051241-208?associate=420161202,https://www.remax.com.ar/421241019-58?associate=420161202,https://www.remax.com.ar/420261172-79?associate=420161202
+25,Oficina," 58 e/ 2 y 3",La plata,USD82.500,,,,1,57,57,1,https://www.remax.com.ar/420161455-4,Team Ali,NO,https://www.remax.com.ar/420711249-21?associate=420161202,https://www.remax.com.ar/420711263-142?associate=420161202,https://www.remax.com.ar/420711229-2?associate=420161202,https://www.remax.com.ar/420161086-207?associate=420161202,https://www.remax.com.ar/421941047-28?associate=420161202,,https://www.remax.com.ar/420711074-870?associate=420161202,https://www.remax.com.ar/420341144-38?associate=420161202,https://www.remax.com.ar/420161489-8?associate=420161202,https://www.remax.com.ar/420711174-12?associate=420161202,https://www.remax.com.ar/420161139-155?associate=420161202
+26,Lote,471 e/ 24 y 26,City Bell,USD97.000,,,,,,624,,https://www.remax.com.ar/420161455-5,Team Ali,NO,https://www.remax.com.ar/420341072-336?associate=420161202,https://www.remax.com.ar/420161141-115?associate=420161202,https://www.remax.com.ar/420161079-346?associate=420161202,https://www.remax.com.ar/420161282-158?associate=420161202,https://www.remax.com.ar/421921008-18?associate=420161202,,https://www.remax.com.ar/421941025-109?associate=420161202,https://www.remax.com.ar/420161137-489?associate=420161202,https://www.remax.com.ar/420711243-4?associate=420161202,https://www.remax.com.ar/420441083-107?associate=420161202,https://www.remax.com.ar/420161079-345?associate=420161202
+27,Departamento,58 e/ 2 y 3,La plata,USD59.000,monoambiente,1,,,31,37,8,https://www.remax.com.ar/420161455-20?associate=420161455,Team Ali,NO,https://www.remax.com.ar/421941012-83?associate=420161202,https://www.remax.com.ar/420711115-111?associate=420161202,https://www.remax.com.ar/420341094-446?associate=420161202,https://www.remax.com.ar/420711111-226?associate=420161202,https://www.remax.com.ar/420441023-416?associate=420161202,,https://www.remax.com.ar/420441128-244?associate=420161202,https://www.remax.com.ar/420161280-113?associate=420161202,https://www.remax.com.ar/420711085-130?associate=420161202,https://www.remax.com.ar/420161322-51?associate=420161202,https://www.remax.com.ar/420161246-387?associate=420161202
+28,Casa,512 e/ 25y 26,"Hernandez ",USD110.000,4,2,"Parque ",2,164,196,,https://www.remax.com.ar/420161455-13?associate=420161455,Team Ali,NO,https://www.remax.com.ar/420341094-368?associate=420161202,https://www.remax.com.ar/420341105-176?associate=420161202,https://www.remax.com.ar/421941017-30?associate=420161202,https://www.remax.com.ar/420341188-50?associate=420161202,https://www.remax.com.ar/420441114-156?associate=420161202,,https://www.remax.com.ar/420161156-197?associate=420161202,https://www.remax.com.ar/420441128-309?associate=420161202,https://www.remax.com.ar/420711129-255?associate=420161202,https://www.remax.com.ar/420711175-45?associate=420161202,https://www.remax.com.ar/420711108-196?associate=420161202
+29,Departamento,48 e/ 7 y 8,La plata,USD145.000,3,2,,1,115,127,11,https://www.remax.com.ar/420161455-12,Team Ali,SI,https://www.remax.com.ar/420711104-181?associate=420161202,https://www.remax.com.ar/420711111-229?associate=420161202,https://www.remax.com.ar/420341105-199?associate=420161202,https://www.remax.com.ar/420341143-47?associate=420161202,https://www.remax.com.ar/420711108-176?associate=420161202,,https://www.remax.com.ar/420161127-134?associate=420161202,https://www.remax.com.ar/421921046-4?associate=420161202,https://www.remax.com.ar/420161137-500?associate=420161202,https://www.remax.com.ar/420341122-175?associate=420161202,https://www.remax.com.ar/420161202-442
+31,Departamento,48 e/ 8 y 9,La Plata,USD155.000,3,2,,1,124,136,3,https://www.remax.com.ar/420161455-15,Team Ali,NO,https://web.redremax.com/420711074-893?associate=420161202,https://web.redremax.com/420161159-29?associate=420161202,https://web.redremax.com/420711101-170?associate=420161202,https://web.redremax.com/421941019-80?associate=420161202,https://web.redremax.com/420161246-387?associate=420161202,,https://web.redremax.com/420711262-115?associate=420161202,https://web.redremax.com/420161164-283?associate=420161202,https://web.redremax.com/420161343-54?associate=420161202,https://web.redremax.com/420711224-28?associate=420161202,https://web.redremax.com/420711257-4?associate=420161202
+36,Casa,473 Bis e/ 21A y Cno Belgrano,CIty Bell,USD500.000,5,5,,,300,435,,https://www.remax.com.ar/420161202-467,Team Ali,SI,https://web.redremax.com/420711178-57?associate=420161202,https://www.remax.com.ar/420161156-206?associate=420161202,https://www.remax.com.ar/0161318-16?associate=420161202,https://web.redremax.com/420161200-334?associate=420161202,https://web.redremax.com/420161181-181?associate=420161202,,https://www.remax.com.ar/420161318-12?associate=420161202,https://www.remax.com.ar/421941047-16?associate=420161202,https://www.remax.com.ar/420441083-177?associate=420161202,https://www.remax.com.ar/420341072-351?associate=420161202,
+37,Casa,151 esq 531,San Carlos,USD115.000,3,,Parque,1,145,600,,https://www.remax.com.ar/420161237-162,Team Ali,NO,https://web.redremax.com/420341105-176?associate=420161202,https://web.redremax.com/420711134-137?associate=420161202,https://web.redremax.com/420341185-42?associate=420161202,https://web.redremax.com/420441165-20?associate=420161202,https://web.redremax.com/420711119-330?associate=420161202,,https://web.redremax.com/420441128-309?associate=420161202,https://web.redremax.com/420711174-83?associate=420161202,https://web.redremax.com/420161086-185?associate=420161202,https://web.redremax.com/421941053-10?associate=420161202,https://web.redremax.com/420161137-499?associate=420161202
+38,Casa,144 e/ 60 y 61,Los Hornos,USD145.000,3,,"Parque ",1,120,500,,https://www.remax.com.ar/420161237-158?,Team Ali,SI,https://web.redremax.com/420441113-129?associate=420161202,https://web.redremax.com/420341175-20?associate=420161202,https://web.redremax.com/420341184-19?associate=420161202,https://web.redremax.com/420161159-254?associate=420161202,https://web.redremax.com/420711095-101?associate=420161202,,https://web.redremax.com/421941012-63?associate=420161202,https://web.redremax.com/420161429-3?associate=420161202,https://web.redremax.com/421941006-53?associate=420161202,https://web.redremax.com/420341194-1?associate=420161202,
+39,Casa,Ortiz de campo esq lavalle,Quilmes,USD150.000,2,2,Patio,1,72,190,,https://www.remax.com.ar/420161202-466,Team Ali,NO,https://www.remax.com.ar/420171059-997?associate=420161202,https://www.remax.com.ar/420571162-3?associate=420161202,https://www.remax.com.ar/420531108-31?associate=420161202,https://www.remax.com.ar/420531113-56?associate=420161202,https://www.remax.com.ar/421731007-79?associate=420161202,,https://www.remax.com.ar/420561080-287?associate=420161202,https://www.remax.com.ar/420171153-123?associate=420161202,https://www.remax.com.ar/421181005-229?associate=420161202,https://www.remax.com.ar/420171169-21?associate=420161202,https://www.remax.com.ar/420531140-138?associate=420161202
+40,Lote,458 e/ 150 y 152,City Bell,USD350.000,,,,,34222,,,https://www.remax.com.ar/420161202-469,Team Ali,NO,https://web.redremax.com/421941055-15?associate=420161202,https://web.redremax.com/420161137-489?associate=420161202,https://web.redremax.com/420161079-345?associate=420161202,https://web.redremax.com/420161310-43?associate=420161202,https://web.redremax.com/420161141-167?associate=420161202,,https://web.redremax.com/420161141-93?associate=420161202,https://web.redremax.com/420711138-122?associate=420161202,https://web.redremax.com/421921024-15?associate=420161202,https://web.redremax.com/420711186-204?associate=420161202,
+42,Departamento,"67 e/ 4 y 5 ",La Plata,USD44.000,1,1,,1,36,36,2,https://www.remax.com.ar/420161455-18,Team Ali,NO,https://web.redremax.com/420711145-74?associate=420161202,https://web.redremax.com/420711174-85?associate=420161202,https://web.redremax.com/420161486-10?associate=420161202,https://web.redremax.com/420341064-232?associate=420161202,https://web.redremax.com/420341064-242?associate=420161202,,https://web.redremax.com/420161399-49?associate=420161202,https://www.remax.com.ar/420161156-204?associate=420161237,https://www.remax.com.ar/420711263-226?associate=420161237,https://www.remax.com.ar/420161322-65?associate=420161237,https://www.remax.com.ar/421941011-31?associate=420161237
+43,Departamento,66 e/ 5 y 6,La Plata,USD68.000,1,1,,,40,43,3,https://www.remax.com.ar/420161237-167,Team Ali,NO,https://www.remax.com.ar/420341094-440?associate=420161237,https://web.redremax.com/420161322-51?associate=420161202,https://web.redremax.com/420711115-136?associate=420161202,https://www.remax.com.ar/420161381-47?associate=420161237,https://www.remax.com.ar/420161200-322?associate=420161237,,https://web.redremax.com/420161399-49?associate=420161202,https://www.remax.com.ar/420161156-204?associate=420161237,https://www.remax.com.ar/420711263-226?associate=420161237,https://www.remax.com.ar/420161322-65?associate=420161237,https://www.remax.com.ar/421941011-31?associate=420161237
+44,Lote,403 e/ Centenario y 24,Villa Elisa,USD119.000,,,,,,915,,https://www.remax.com.ar/420161455-22?associate=420161455,Team Ali,NO,https://web.redremax.com/420161275-61?associate=420161202,https://web.redremax.com/420161275-58?associate=420161202,https://web.redremax.com/420161200-288?associate=420161202,https://web.redremax.com/420711138-124?associate=420161202,https://web.redremax.com/421941005-73?associate=420161202,,https://web.redremax.com/420171168-25?associate=420161202,https://web.redremax.com/420711108-133?associate=420161202,https://web.redremax.com/420161163-194?associate=420161202,https://web.redremax.com/420161310-43?associate=420161202,https://web.redremax.com/420711138-122?associate=420161202
+46,PH,63 esq 28,La Plata,USD67.000,2,2,Patio,,96,108,,https://www.remax.com.ar/420161202-459,Team Ali,NO,https://www.remax.com.ar/421941046-21?associate=420161202,https://www.remax.com.ar/420341064-231?associate=420161202,https://www.remax.com.ar/420161494-1?associate=420161202,https://www.remax.com.ar/420341134-81?associate=420161202,https://www.remax.com.ar/420341143-42?associate=420161202,,https://www.remax.com.ar/420711251-112?associate=420161202,https://www.remax.com.ar/420161273-76?associate=420161202,https://www.remax.com.ar/420711247-35?associate=420161202,https://www.remax.com.ar/420341185-41?associate=420161202,https://www.remax.com.ar/420711119-328?associate=420161202
+47,Casa,49 e/15 y 16,Villa Elisa,USD180.000,3,2,Patio,2,220,,,https://www.remax.com.ar/420161156-206,Team Ali,NO,https://web.redremax.com/420441128-200?associate=420161202,https://web.redremax.com/420161481-1?associate=420161202,https://web.redremax.com/420161200-289?associate=420161202,https://web.redremax.com/420161380-57?associate=420161202,https://web.redremax.com/420161408-22?associate=420161202,,https://web.redremax.com/420341072-351?associate=420161202,https://web.redremax.com/420161156-206?associate=420161202,https://web.redremax.com/421941047-16?associate=420161202,https://web.redremax.com/420711119-334?associate=420161202,https://web.redremax.com/420161273-77?associate=420161202
+48,Casa,473 Bis e/ 17 y 19,City bell,USD890.000,3,2,parque,2,310,680,,https://www.remax.com.ar/420161202-474?,Team Ali,NO,https://www.remax.com.ar/420161156-78?associate=420161202,https://www.remax.com.ar/420711143-41?associate=420161202,https://www.remax.com.ar/420161141-159?associate=420161202,https://www.remax.com.ar/420341094-424?associate=420161202,https://www.remax.com.ar/421921024-12?associate=420161202,,https://web.redremax.com/421941025-60?associate=420161202,https://www.remax.com.ar/421941016-21?associate=420161202,https://www.remax.com.ar/420711158-87?associate=420161202,https://www.remax.com.ar/420161164-219?associate=420161202,
+49,Casa,27 e/ 496 y 497,Gonnet,USD390.000,3,2,Parque,2,228,615,,https://www.remax.com.ar/420161202-475?,Team Ali,NO,https://www.remax.com.ar/420161164-300,https://www.remax.com.ar/420161486-9?associate=420161202,https://www.remax.com.ar/420711174-83?associate=420161202,https://www.remax.com.ar/420161322-61,https://www.remax.com.ar/420161137-499,,https://www.remax.com.ar/420161455-10?associate=420161202,https://www.remax.com.ar/420161408-31?associate=420161202,https://www.remax.com.ar/420161282-96,https://www.remax.com.ar/420711158-104,https://www.remax.com.ar/420161164-63?associate=420161202
+50,Casa,Belgrano e/ ortiz de Ocampo y Matienzo,Quilmes,USD145.000,3,2,,2,182,333,,https://www.remax.com.ar/420161202-476,Team Ali,NO,https://web.redremax.com/420161408-29?associate=420161202,https://web.redremax.com/421061091-10?associate=420161202,https://www.remax.com.ar/420171166-12?associate=420161202,https://www.remax.com.ar/420531140-114?associate=420161202,https://www.remax.com.ar/420171059-997?associate=420161202,,https://www.remax.com.ar/421921009-56?associate=420161202,https://www.remax.com.ar/420531102-69?associate=420161202,https://www.remax.com.ar/420531083-500?associate=420161202,https://www.remax.com.ar/420171174-38?associate=420161202,https://www.remax.com.ar/420561080-287?associate=420161202
+51,Departamento,33 e/ 8 y  9,La plata,USD65.000,1,1,,1,36,36,1,https://www.remax.com.ar/420161237-168,Team Ali,NO,https://web.redremax.com/420341114-147?associate=420161202,https://web.redremax.com/181633-18?associate=420161202,https://web.redremax.com/420711032-313?associate=420161202,https://web.redremax.com/420441128-279?associate=420161202,https://web.redremax.com/421921048-5?associate=420161202,,https://web.redremax.com/420161280-114?associate=420161202,https://web.redremax.com/421921037-93?associate=420161202,https://web.redremax.com/420161085-462?associate=420161202,https://web.redremax.com/420161085-443?associate=420161202,https://web.redremax.com/420161159-269?associate=420161202
+52,Departamento,"39 e/ 5 y 6 ",La plata,USD46.500,1,1,,,35,35,1,https://www.remax.com.ar/420161237-171,Team Ali,,https://web.redremax.com/420711032-308?associate=420161202,https://web.redremax.com/420161181-170?associate=420161202,https://web.redremax.com/421941011-20?associate=420161202,https://web.redremax.com/420341174-60?associate=420161202,https://web.redremax.com/420441184-95?associate=420161202,,https://web.redremax.com/421921008-14?associate=420161202,https://web.redremax.com/420441194-4?associate=420161202,https://web.redremax.com/420341144-25?associate=420161202,https://web.redremax.com/420341185-43?associate=420161202,https://web.redremax.com/420441144-96?associate=420161202
+53,Departamento,62 e/ 3 y 4,La plata,USD68.000,3,1,,,80,85,2,https://www.remax.com.ar/420161455-7,Team Ali,,https://web.redremax.com/420441141-70?associate=420161202,https://web.redremax.com/420441151-58?associate=420161202,https://web.redremax.com/420341138-128?associate=420161202,https://web.redremax.com/420441165-41?associate=420161202,https://web.redremax.com/420711103-261?associate=420161202,,https://web.redremax.com/420161073-202?associate=420161202,https://web.redremax.com/420711078-455?associate=420161202,https://web.redremax.com/420161237-172?associate=420161202,https://web.redremax.com/420711007-146?associate=420161202,https://web.redremax.com/420161503-408?associate=420161202
+55,Departamento,61 e/ 12 y 13,La plata,USD178.000,2,2,,1,97,119,9,https://www.remax.com.ar/420161455-19,Team Ali,,https://web.redremax.com/420711185-93?associate=420161202,https://web.redremax.com/420711085-131?associate=420161202,https://web.redremax.com/421941012-86?associate=420161202,https://web.redremax.com/421921006-89?associate=420161202,https://web.redremax.com/420161237-172?associate=420161202,,https://web.redremax.com/420441070-176?associate=420161202,https://web.redremax.com/420711258-3?associate=420161202,https://web.redremax.com/420711257-4?associate=420161202,,
+57,Casa,"461b e/ 14 a y 14 c ",city bell,USD159.500,2,2,Parque,1,75,97,,https://www.remax.com.ar/420161202-479,Team Ali,,https://www.remax.com.ar/420161181-181?associate=420161202,https://www.remax.com.ar/420161322-52?associate=420161202,https://www.remax.com.ar/421921007-14?associate=420161202,https://www.remax.com.ar/420161105-267?associate=420161202,https://www.remax.com.ar/420161429-12?associate=420161202,,https://www.remax.com.ar/420161156-184?associate=420161202,https://www.remax.com.ar/420161419-307?associate=420161202,https://www.remax.com.ar/420711006-301?associate=420161202,https://www.remax.com.ar/420711007-145?associate=420161202,https://www.remax.com.ar/420161137-494?associate=420161202
+58,Departamento,60 e/ 15 y 16,La Plata,USD158.000,2,2,Balcon,1,75,81,9,https://www.remax.com.ar/420161237-172?associate=420161237,Team Ali,,"📍 46 e/ 18 y 19 | 🛏️ 2 dorm | 📏 74 m² | 🏢  Balcón | 💰 USD $ 125.000
+https://www.remax.com.ar/421921037-93?associate=420161202
+
+📍 14 e/ 45 y 46 | 🛏️ 2 dorm | 📏 75 m² | 🏢  Balcón | 💰 USD $ 119.500
+https://www.remax.com.ar/420711122-100?associate=420161202
+
+📍 51 e/ 28 y 29 | 🛏️ 2 dorm | 📏 64 m² | 🏢  Balcón | 💰 USD $ 142.000
+https://www.remax.com.ar/420161185-142?associate=420161202
+
+📍 19 y 66 | 🛏️ 2 dorm | 📏 67 m² | 🏢  Balcón | 💰 USD $ 155.000
+https://www.remax.com.ar/420441154-130?associate=420161202
+
+📍 63 e/ 11 y 12 | 🛏️ 2 dorm | 📏 87 m² | 🏢  Balcón y Terraza| 💰 USD $ 148.000
+https://www.remax.com.ar/420161073-202?associate=420161202
+
+","📍 58 e/ 3 y 4 | 🛏️ 2 dorm | 📏 58 m² | 🏢  Balcón | 💰 USD $ 120.000
+https://www.remax.com.ar/422121013-8?associate=420161202
+
+📍 3 e/ 49 y 50 | 🛏️ 2 dorm | 📏 85 m² | 🏢  Balcón | 💰 USD $ 155.000
+https://www.remax.com.ar/421921006-89?associate=420161202
+
+📍 43 e/ 13 y 14 | 🛏️ 2 dorm | 📏 75 m² | 🏢  Balcón | 💰 USD $ 125.000
+https://www.remax.com.ar/420441128-317?associate=420161202
+
+📍 38 e/ 26 y 27 | 🛏️ 2 dorm | 📏 80 m² | 🏢  Balcón | 💰 USD $ 145.000
+https://www.remax.com.ar/421921006-46?associate=420161202
+
+📍 63 e/ 14 y 15 | 🛏️ 2 dorm | 📏 58 m² | 🏢  Balcón | 💰 USD $ 104.000
+https://www.remax.com.ar/421941012-68?associate=420161202
+","📍 9 e/ 60 y 61 | 🛏️ 2 dorm | 📏 65 m² | 🏢  Balcón | 💰 USD $ 130.000
+https://www.remax.com.ar/420711169-43?associate=420161202
+
+📍 51 e/ 4 y 5 | 🛏️ 2 dorm | 📏 62 m² | 🏢  Balcón | 💰 USD $ 139.000
+https://www.remax.com.ar/420161359-26?associate=420161202
+",,,,"📍 45 e/  6 y 7 | 🛏️ 2 dorm | 📏 79 m² | 🏢  Balcón | 💰 USD $ 165.000
+https://www.remax.com.ar/420161164-285?associate=420161202
+
+📍 61 e/ 12 y 13| 🛏️ 2 dorm | 📏 97 m² | 🏢  Balcón | 💰 USD $ 178.000
+https://www.remax.com.ar/420161455-19?associate=420161202
+
+📍 15 e/ 38 y 39| 🛏️ 2 dorm | 📏 116 m² | 🏢  Balcón | 💰 USD $ 195.000
+https://www.remax.com.ar/420161164-261?associate=420161202 
+
+
+📍 3 e/ 39 y 40| 🛏️ 2 dorm | 📏 97 m² | 🏢  Balcón | 💰 USD $ 159.000
+https://www.remax.com.ar/420441151-30?associate=420161202
+
+📍 54 e/ 23 y 24| 🛏️ 2 dorm | 📏 93 m² | 🏢  Balcón | 💰 USD $ 200.000
+https://www.remax.com.ar/420441070-176?associate=420161202
+","📍 15 e/ 45 y 46| 🛏️ 2 dorm | 📏 100 m² | 🏢  Balcón | 💰 USD $ 189.000
+https://www.remax.com.ar/420161043-460?associate=420161202
+
+📍 51 e/ 3 y 4| 🛏️ 2 dorm | 📏 82  m² | 🏢  Balcón | 💰 USD $ 180.000
+https://www.remax.com.ar/421921026-214?associate=420161202
+
+📍 38 e/ 16 y 17| 🛏️ 3 dorm | 📏 116  m² | 🏢  Balcón | 💰 USD $ 165.000
+https://www.remax.com.ar/420161085-462?associate=420161202
+
+📍 15 e/ 43 y 44| 🛏️ 3 dorm | 📏 98  m² | 🏢  Balcón | 💰 USD $ 165.000
+https://www.remax.com.ar/420161137-500?associate=420161202
+
+",,,
+59,Casa,Haras del Sur II,BRANDSEN,USD250.000,3,2,Parque,4,248,1233,,https://www.remax.com.ar/420161202-480,Team Ali,,https://www.remax.com.ar/420161282-154?associate=420161202,https://www.remax.com.ar/420171211-165?associate=420161202,https://www.remax.com.ar/420161282-122?associate=420161202,https://www.remax.com.ar/420171211-166?associate=420161202,https://www.remax.com.ar/420161416-19?associate=420161202,,https://www.remax.com.ar/420171211-161?associate=420161202,https://www.remax.com.ar/420161282-190?associate=420161202,https://www.remax.com.ar/420391339-55?associate=420161202,https://www.remax.com.ar/420161282-152?associate=420161202,https://www.remax.com.ar/420161264-105?associate=420161202
+63,Casa,26 e/66 y 67,La Plata,USD75.000,2,1,0,0,63,63,1,https://www.remax.com.ar/420161202-471?associate=420161202,,,,,,,,,,,,,
+64,Casa,31 e/ 491 y 492,City Bell,USD 160.000,3,1,PATIO,SI,,,,https://www.remax.com.ar/420161237-180?associate=420161237,,,"📍479 Entre 13 y 11 Bis | 🛏️ 2 dorm | 📏63,3  m² | 🌳  Parque| 💰 USD $95.000
+https://www.remax.com.ar/421921046-5?associate=420161202
+
+📍478 Entre 10 y 11 | 🛏️ 3 dorm | 📏205  m² | 🌳  Parque| 💰 USD $94.000
+https://www.remax.com.ar/420161026-474?associate=420161202
+
+📍 451 Equina 23 | 🛏️ 2 dorm | 📏107  m² | 🌳  Pile | 💰 USD $92.000
+https://www.remax.com.ar/420161163-193?associate=420161202
+
+📍449 y 21A | 🛏️ 3 dorm | 📏105  m² | 🌳  Pile | 💰 USD $89.500
+https://www.remax.com.ar/421921048-4?associate=420161202
+
+📍462 E/17 y 18 | 🛏️ 3 dorm | 📏90  m² | 🌳  Parque | 💰 USD $80.000
+https://www.remax.com.ar/421941025-116?associate=420161202
+","📍477 E/ 7bis y 8| 🛏️ 3 dorm | 📏112  m² | 🌳  Pileta | 💰 USD $98.000
+https://www.remax.com.ar/421921048-7?associate=420161202
+
+📍| 🛏️ 3 dorm | 📏140  m² | 🌳  Parque | 💰 USD $105.000
+https://www.remax.com.ar/420711129-279?associate=420161202
+
+📍463 E/ 27 y 28 | 🛏️ 3 dorm | 📏112  m² | 🌳  Parque | 💰 USD $110.000
+https://www.remax.com.ar/420711074-879?associate=420161202
+
+📍15a Esquina 461c  | 🛏️ 3 dorm | 📏111  m² | 🌳  Parque | 💰 USD $120.000
+https://www.remax.com.ar/420161381-77?associate=420161202
+
+📍133 Bis Entre 167 y 168  | 🛏️ 1 dorm | 📏90  m² | 🌳  Pileta | 💰 USD $128.000
+https://www.remax.com.ar/420161386-52?associate=420161202
+",,,,,"📍146 bis E/ 444 y 445  | 🛏️3 dorm | 📏120  m² | 🌳  Pileta | 💰 USD $185.000
+https://www.remax.com.ar/420711007-151?associate=420161202
+
+📍 473 Entre 160 y 162 | 🛏️4 dorm | 📏249  m² | 🌳  Pileta | 💰 USD $450.000
+https://www.remax.com.ar/420161079-358?associate=420161202
+
+📍471 Esquina 19  | 🛏️3 dorm | 📏218 m² | 🌳  Pileta | 💰 USD $420.000
+https://www.remax.com.ar/420711007-134?associate=4201612024
+
+📍 462 e/ 14 y 15 | 🛏️4 dorm | 📏265  m² | 🌳  Pileta | 💰 USD $330.000
+https://www.remax.com.ar/420441128-315?associate=420161202
+
+📍460 entre 23 y Camino Belgrano | 🛏️4 dorm | 📏220  m² | 🌳  Pileta | 💰 USD $245.000
+https://www.remax.com.ar/420161141-159?associate=420161202
+
+
+
+",,,,
+65,Casa,2 e/ Avenida Calchaqui y 101,Berazategui,USD 150.000,3,2,si,si,140,500,,https://www.remax.com.ar/420161237-176?associate=420161237,,NO,"📍Avenida Florencio Varela y 140 | 🛏️4 dorm | 📏140  m² | 🌳terraza  | 💰 USD $99.000
+https://www.remax.com.ar/420171212-74?associate=420161237
+
+📍 134 e/ 17 y 18 | 🛏️3 dorm | 📏 165 m² | 🌳Parque | 💰 USD $115.00
+https://www.remax.com.ar/420171174-17?associate=420161237
+
+
+📍 20 esq 143 | 🛏️2 dorm | 📏 125 m² | 🌳Parque | 💰 USD $130.000
+https://www.remax.com.ar/420171182-33?associate=420161237
+",,,,,,"📍14 y 115 | 🛏️5 dorm | 📏 170 m² | 🌳Patio| 💰 USD $150.000
+https://www.remax.com.ar/420531090-190?associate=420161237
+
+📍 8 y 136 | 🛏️3 dorm | 📏 108 m² | 🌳Parque | 💰 USD $155.000
+https://www.remax.com.ar/421731005-87?associate=420161237
+
+
+📍12 e/ 140 y 141 | 🛏️3 dorm | 📏 200 m² | 🌳Parque | 💰 USD $180.000
+https://www.remax.com.ar/420711129-271?associate=420161237
+",,,,
+66,Casa,466 e/ 24 y 25," City Bell"," USD 160.000",3,2,SI,SI / 2,150,663,,https://www.remax.com.ar/420161202-487?associate=420161202,,,"📍 480 bis e/  25 y 26| 🛏️3 dorm | 📏 158  m² | 🌳Pileta | 💰 USD $140.000
+https://www.remax.com.ar/420161280-128?associate=420161202
+
+📍21 A e/ 450 y 451 | 🛏️3 dorm | 📏 95  m² | 🌳Parque | 💰 USD $128.000
+https://www.remax.com.ar/420711224-40?associate=420161202
+
+📍453 e/ 28 y 28bis | 🛏️3 dorm | 📏 140  m² | 🌳Pileta | 💰 USD $128.000
+https://www.remax.com.ar/421921005-79?associate=420161202
+
+📍451 y 21 A | 🛏️3 dorm | 📏 174  m² | 🌳Pileta| 💰 USD $159.000
+https://www.remax.com.ar/420161181-181?associate=420161202
+",,,,,,"
+📍466 e/ 28 bis y 30  | 🛏️3 dorm | 📏 120  m² | 🌳Parque | 💰 USD $165.000
+https://www.remax.com.ar/420441151-66?associate=420161202
+
+📍472 e/ 27 y 28  | 🛏️3 dorm | 📏 252  m² | 🌳Pileta | 💰 USD $185.000
+https://www.remax.com.ar/420161137-494?associate=420161202
+
+📍467 e/ 30 y 31  | 🛏️3 dorm | 📏 135  m² | 🌳Parque | 💰 USD $163.000
+https://www.remax.com.ar/420161159-249?associate=420161202
+",,,,
