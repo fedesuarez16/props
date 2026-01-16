@@ -1,0 +1,485 @@
+id,tipo_de_propiedad,direccion,zona,valor,dormitorios,banos,patio_parque,garage,mts_const,lote,piso,link,columna_1,apto_banco,alternativa_menor_1,alternativa_menor_2,alternativa_menor_3,alterniva_menor_4,alternativa_menor_5,.,alternativa_mayor,alternativa_mayor_2,alternativa_mayor_3,alternativa_mayor_4,alternativa_mayor_5
+1,Casa,Country Abril,Hudson,USD 1.100.000,4,2,"Parque ",1,509,1484,,"https://www.remax.com.ar/420161202-306?associate=420161202 ",Team Ali,SI,,,,,,,,,,,
+2,Casa,31 e/425 y 426,Villa Elisa,USD 280.000,3,4,"Parque ",2,200,340,,https://www.remax.com.ar/420161237-149?associate=420161237,Team Ali,SI,,,,,,,,,,,
+3,Casa,19 Bis e/421 y 422,Villa Elisa,USD 320.000,4,2,"Parque ",2,215,969,,https://www.remax.com.ar/420161237-148?associate=420161237,Team Ali,SI,,,,,,,,,,,
+4,Casa,424 esq 135,Villa Elisa,USD 170.000,2,1,"Parque ",2,190,759,,https://www.remax.com.ar/420161237-156?associate=420161237,Team Ali,NO,,,,,,,,,,,
+5,Casa,473 e/139 y 141,Villa Elisa,USD 199.000,3,4,"Parque ",3,370,1450,,https://www.remax.com.ar/420161202-343?associate=420161202,Team Ali,SI,,,,,,,,,,,
+7,Casa,139 e/ 64 y 65,Los Hornos,USD 128.000,3,2,"Parque ",2,138,450,,https://www.remax.com.ar/420161202-465?associate=420161202,Team Ali,SI,"📍146 e/ 57 y 58 | 🛏️3 dorm | 📏 110 m² | 🌳Pileta | 💰 USD $167.000
+https://www.remax.com.ar/420341174-28?associate=420161202
+
+📍147 e/ 57 y 58 | 🛏️3 dorm | 📏 177 m² | 🌳Pileta | 💰 USD $108.000
+https://www.remax.com.ar/421921037-104?associate=420161202
+
+📍138 e/ 56 y 57 | 🛏️3 dorm | 📏 180 m² | 🌳Parque | 💰 USD $120.000
+https://www.remax.com.ar/421941006-53?associate=420161202
+
+📍60 e/ 140 y 141 | 🛏️3 dorm | 📏 135  m² | 🌳Parque | 💰 USD $115.000
+https://www.remax.com.ar/420711175-42?associate=420161202
+
+📍135 e/ 64 y 65 | 🛏️5 dorm | 📏 130  m² | 🌳Parque | 💰 USD $118.000
+https://www.remax.com.ar/listings/casa-en-venta-en-la-plata-los-hornos
+
+",,,,,,"📍67 e/ 143  y 144 | 🛏️3 dorm | 📏 195  m² | 🌳Pileta | 💰 USD $139.000
+https://www.remax.com.ar/420161200-331?associate=420161202
+
+📍67 e/ 139  y 140 | 🛏️4 dorm | 📏 171  m² | 🌳Pileta | 💰 USD $160.000
+https://www.remax.com.ar/420711251-120?associate=420161202
+
+📍63 esq 135 | 🛏️3 dorm | 📏 250  m² | 🌳Parque | 💰 USD $170.000
+https://www.remax.com.ar/420711103-269?associate=420161202
+
+📍142 e/ 60 y 61 | 🛏️3 dorm | 📏 125  m² | 🌳Pileta | 💰 USD $149.500
+https://www.remax.com.ar/421921005-83?associate=420161202
+
+📍144 e/ 60 y 61 | 🛏️3 dorm | 📏 120  m² | 🌳Parque | 💰 USD $145.000
+https://www.remax.com.ar/420161237-158?associate=420161202
+
+
+",,,,
+8,Casa,42 e/22 y 23,La Plata,USD 280.000,3,2,"Parque ",1,338,482,,https://www.remax.com.ar/420161202-463?associate=420161202,Team Ali,NO,,,,,,,,,,,
+9,Lote,26 e/501 y 502,Manuel Gonnet,USD 79.000,,,,,,347,,https://www.remax.com.ar/420161202-464?associate=420161202,Team Ali,NO,,,,,,,,,,,
+10,Casa,510 e/15 y 16,Manuel Gonnet,USD 179.000,4,2,Parque,1,130,300,,https://www.remax.com.ar/420161202-461?associate=420161202,Team Ali,SI,"📍 511 e/ 23 bis  y 24 | 🛏️ 3 dorm | 📏 110 m² | 🌳 Parque | 💰 USD $ 145.000
+https://www.remax.com.ar/420161156-226?associate=420161202
+
+📍 28 e/ 491 y 493 | 🛏️ 3 dorm | 📏 143 m² | 🌳 Parque | 💰 USD $ 150.000
+https://www.remax.com.ar/420161164-313?associate=420161202
+
+📍 18 e/ 485 y 486 | 🛏️ 3 dorm | 📏 115 m² | 🌳 Parque | 💰 USD $ 155.000
+https://www.remax.com.ar/420161408-36?associate=420161202
+
+📍 505 e/ 28 y 29 | 🛏️ 3 dorm | 📏 124 m² | 🌳 Parque | 💰 USD $ 159.000
+https://www.remax.com.ar/420711129-241?associate=420161202
+
+
+📍 132 bis y 488 | 🛏️ 3 dorm | 📏 113 m² | 🌳 Parque | 💰 USD $ 165.000
+https://www.remax.com.ar/420711119-338?associate=420161202
+
+",,,,,,"📍 505 bis e/ 23 y 24 | 🛏️ 3 dorm | 📏 120 m² | 🌳 Parque | 💰 USD $ 210.000
+https://www.remax.com.ar/420161085-559?associate=420161202
+
+📍 27 e/ 496 y 497 | 🛏️ 3 dorm | 📏 228 m² | 🌳 Parque | 💰 USD $ 390.000
+https://www.remax.com.ar/420161202-475
+
+📍 28 bis e/ 489 y 491 | 🛏️ 3 dorm | 📏 228 m² | 🌳 Parque | 💰 USD $ 226.000
+https://www.remax.com.ar/420161164-300?associate=420161202
+
+📍 Lacroze y 15 | 🛏️ 3 dorm | 📏 270 m² | 🌳 Parque | 💰 USD $ 250.000
+https://www.remax.com.ar/420161486-9?associate=420161202
+
+📍 15 bis e/ 493 bis y 494  🛏️ 3 dorm | 📏 180 m² | 🌳 Parque | 💰 USD $ 250.000
+​​https://www.remax.com.ar/421941044-14?associate=420161202
+","📍 493 bis esq 16 bis | 🛏️ 3 dorm | 📏 230 m² | 🌳 Parque | 💰 USD $ 290.000
+https://www.remax.com.ar/420161408-31?associate=420161202
+
+📍 485 e/ 18 y 19 | 🛏️ 3 dorm | 📏 132 m² | 🌳 Parque | 💰 USD $ 320.000
+https://www.remax.com.ar/420711013-181?associate=420161202
+
+📍 18 e/ 491 y 491 bis | 🛏️ 3 dorm | 📏 340 m² | 🌳 Parque | 💰 USD $ 480.000
+https://www.remax.com.ar/420711158-104?associate=420161202
+",,,
+11,Casa,116 e/ 34 y 35,La Plata,USD 115.000,2,1,"Parque ",1,110,176,UF 2,https://www.remax.com.ar/420161202-458?associate=420161202,Team Ali,SI,"
+📍119 e/ 35 y 36 | 🛏️ 2 dorm | 📏78  m² | 🌳  Parque | 💰 USD $73.000
+https://www.remax.com.ar/421941047-9?associate=420161202
+
+📍40 e/ 115 y 116 | 🛏️ 2 dorm | 📏140  m² | 🌳  Parque | 💰 USD $115.000
+https://www.remax.com.ar/420711126-121?associate=420161202
+",,,,,,"
+📍38 E/ 15 Y 16 | 🛏️ 2 dorm | 📏74  m² | 🌳  Parque | 💰 USD $119.000
+https://www.remax.com.ar/420711115-138?associate=420161202
+
+📍18 e/ 46 y 47| 🛏️ 2 dorm | 📏92  m² | 🌳  Parque | 💰 USD $129.000
+https://www.remax.com.ar/420161185-157?associate=420161202
+
+📍2 e/ 63 y 64| 🛏️ 2 dorm | 📏150  m² | 🌳  Pileta  | 💰 USD $140.000
+https://www.remax.com.ar/420161381-62?associate=420161202
+
+📍32 e/ 5 y 6 | 🛏️ 3 dorm | 📏175  m² | 🌳  Parque  | 💰 USD $160.000
+https://www.remax.com.ar/420711247-38?associate=420161202
+
+📍47 e/ 28 y 29 | 🛏️ 3 dorm | 📏130  m² | 🌳  Pileta  | 💰 USD $189.900
+https://www.remax.com.ar/420711197-105?associate=420161202
+","📍43 e/ 17 y 18 | 🛏️ 3 dorm | 📏164  m² | 🌳  Parque  | 💰 USD $220.000
+https://www.remax.com.ar/420341122-182?associate=420161202
+
+📍28 e/ 57 y 58 | 🛏️ 3 dorm | 📏165  m² | 🌳  Pileta  | 💰 USD $190.000
+https://www.remax.com.ar/420161086-201?associate=420161202
+
+
+📍2 e/ 36 y 37 | 🛏️ 3 dorm | 📏228  m² | 🌳  Parque  | 💰 USD $172.000
+https://www.remax.com.ar/420341184-12?associate=420161202
+
+📍32 e/ 118 y 119 | 🛏️ 3 dorm | 📏249  m² | 🌳  Parque  | 💰 USD $190.000
+https://www.remax.com.ar/420341114-138?associate=420161202
+",,,
+12,Lote,139 e/ 90 y 96,Fincas de Duggan,USD 153.000,,,Lote 316,,,1631,,https://www.remax.com.ar/420161202-453?associate=420161202,Team Ali,NO,,,,,,,,,,,
+13,Lote,Haras del Sur III,Haras del Sur III,USD 26.000,,,"Lote 55, Barrio ""Los Robles""",,,918,,https://www.remax.com.ar/420161202-445?associate=420161202,Team Ali,NO,,,,,,,,,,,
+14,Lote,501 e/ 135 Y 137,Don Carlos,USD 99.900,,,,,,685,,https://www.remax.com.ar/420161202-443?associate=420161202,Team Ali,NO,,,,,,,,,,,
+15,Departamento,Plaza Paso e/13 y 44,La Plata,USD 249.000,3,2,Balcon al frente y al contrafrente,1,133,142,1,https://www.remax.com.ar/420161202-442?associate=420161202,Team Ali,SI,"📍Plaza Paso 100 | 🛏️2 dorm | 📏 79 m² |🏢  Balcón |💰 USD $147.000
+https://www.remax.com.ar/420711108-203?associate=420161202
+
+📍19 e/ 39 y 40 | 🛏️3 dorm | 📏 140 m² |🏢  Balcón |💰 USD $200.000
+https://www.remax.com.ar/420161164-299?associate=420161202
+
+📍25 e/ 58 y 59 | 🛏️3 dorm | 📏 163 m² |🏢  Balcón |💰 USD $210.000
+https://www.remax.com.ar/420161408-19?associate=420161202
+
+📍54 e/ 26 y 27 | 🛏️3 dorm | 📏 100 m² |🏢  Balcón |💰 USD $215.000
+https://www.remax.com.ar/420711262-115?associate=420161202
+
+📍44 e/ 16 y 17 | 🛏️3 dorm | 📏 126 m² |🏢  Balcón |💰 USD $232.000
+https://www.remax.com.ar/420161164-283?associate=420161202
+","📍36 e/ 7 y 8 | 🛏️4 dorm | 📏 135 m² |🏢  Balcón |💰 USD $260.000
+https://www.remax.com.ar/420711095-87?associate=420161202
+
+
+📍36 e/ 7 y 8 | 🛏️3 dorm | 📏 143 m² |🏢  Balcón |💰 USD $259.000
+https://www.remax.com.ar/421921006-69?associate=420161202
+
+📍36 e/ 7 y 8 | 🛏️3 dorm | 📏 137 m² |🏢  Balcón |💰 USD $265.000
+https://www.remax.com.ar/420711104-31?associate=420161202
+",,,,,"📍47 e/ 12 y 13 | 🛏️3 dorm | 📏 147 m² |🏢  Balcón |💰 USD $290.000
+https://www.remax.com.ar/420711158-70?associate=420161202
+
+📍9 e/ 51 y 53 | 🛏️3 dorm | 📏 128 m² |🏢  Balcón |💰 USD $270.000
+https://www.remax.com.ar/420711174-70?associate=420161202
+
+📍7 e/ 39 y Plaza Olazabal | 🛏️3 dorm | 📏 122 m² |🏢  Balcón |💰 USD $295.000
+https://www.remax.com.ar/420341141-41?associate=420161202
+",,,,
+16,Casa,49 e/ 26 y 27,La Plata,USD 150.000,3,2,"Parque ",1,170,291,,https://www.remax.com.ar/420161202-354?associate=420161202,Team Ali,NO,,,,,,,,,,,
+17,Casa,63 e/ 139 y 140,Los Hornos,USD 65.000,2,1,Patio,,100,110,,https://www.remax.com.ar/420161237-105?associate=420161237,Team Ali,NO,,,,,,,,,,,
+18,Casa,530 e/ 4bis y 5,Tolosa,USD 140.000,3,3,Patio,1,180,258,,https://www.remax.com.ar/420161202-484?associate=420161202,Team Ali,NO,,,,,,,,,,,
+19,Departamento,30 esq 41,La Plata,USD 86.000,1,1,Balcon,1,51,56,5,https://www.remax.com.ar/420161237-137?associate=420161237,Team Ali,NO,,,,,,,,,,,
+20,Departamento,2 e/ 33 y 34,La Plata,USD 80.000,2,1,,2,83,83,1 UF 1,https://www.remax.com.ar/420161237-141?associate=420161237,Team Ali,NO,,,,,,,,,,,
+21,Casa,502 e/ 17 y 18,Manuel Gonnet,USD 280.000,4,3,"Parque ",3,256,400,,https://www.remax.com.ar/420161237-157?associate=420161237,Team Ali,NO,,,,,,,,,https://www.remax.com.ar/420161422-18?associate=420161237,,
+22,Casa,15a e/ 460 y  461,City Bell,USD 65.000,2,1,"Parque ",1,68,343,,https://www.remax.com.ar/420161237-161?associate=420161237,Team Ali,NO,,,,,,,,,,,
+23,Casa,13 esq 487,Manuel Gonnet,USD 365.000,3,2,"Parque ",2,140,2823,,https://www.remax.com.ar/420161237-159?associate=420161237,Team Ali,SI,,,,,,,,,,,https://www.remax.com.ar/420161202-467?associate=420161202
+24,Oficina,Santiago del estero al 315,"Monserrat, Buenos Aires",USD 99.000,,1,,1,155,155,6,https://www.remax.com.ar/420161237-160?associate=420161237,Team Ali,NO,,,,,,,,,,,
+25,Oficina," 58 e/ 2 y 3",La Plata,USD 82.500,,,Balcon,,57,57,1,https://www.remax.com.ar/420161455-4?associate=420161455,Team Ali,NO,,,,,,,,,,,
+26,Lote,471 e/ 24 y 26,City Bell,USD 97.000,,,,,,624,,https://www.remax.com.ar/420161455-5?associate=420161455,Team Ali,SI,,,,,,,,,,,
+27,Departamento,58 e/ 2 y 3,La Plata,USD 59.000,Monoambiente,1,Balcon,,31,37,8,https://www.remax.com.ar/420161455-20?associate=420161455,Team Ali,NO,,,,,,,,,,,
+28,Casa,512 e/ 25 y 26,"Jose Hernandez, La Plata",USD 110.000,4,2,"Parque ",2,163,195,,https://www.remax.com.ar/420161455-13?associate=420161455,Team Ali,SI,,,,,,,,,,,
+29,Departamento,48 e/ 7 y 8,La Plata,USD 145.000,3,2,,1,115,127,11,https://www.remax.com.ar/420161455-12?associate=420161455,Team Ali,SI,,,,,,,,,,,
+31,Departamento,48 e/ 8 y 9,La Plata,USD 155.000,3,2,Balcon,1,124,136,3,https://www.remax.com.ar/420161455-15?associate=420161455,Team Ali,SI,,,,,,,,,,,
+36,Casa,473 Bis e/ 21A y Cno Belgrano,CIty Bell,USD 500.000,5,5,Patio,0,300,435,,https://www.remax.com.ar/420161202-467?associate=420161202,Team Ali,NO,,,,,,,,,,,
+37,Casa,151 esq 531,San Carlos,USD 115.000,3,2,Parque,2,145,600,,https://www.remax.com.ar/420161237-158?associate=420161237,Team Ali,NO,,,,,,,,,,,
+38,Casa,144 e/ 60 y 61,Los Hornos,USD 145.000,3,1,"Parque ",3,120,500,,https://www.remax.com.ar/420161237-158?associate=420161237,Team Ali,SI,,,,,,,,,,,
+39,Casa,Ortiz de campo esq lavalle,Quilmes,USD 150.000,2,2,Patio,1,100,190,,https://www.remax.com.ar/420161202-466?associate=420161202,Team Ali,NO,,,,,,,,,,,
+40,Lote,458 e/ 150 y 152,City Bell,USD 350.000,,,3 Hectareas,,34222,,,https://www.remax.com.ar/420161202-469?associate=420161202,Team Ali,NO,,,,,,,,,,,
+42,Departamento,"67 e/ 4 y 5 ",La Plata,USD 44.000,1,1,,1,36,36,2,https://www.remax.com.ar/420161455-18?associate=420161455,Team Ali,SI,,,,,,,,,,,
+43,Departamento,66 e/ 5 y 6,La Plata,USD 68.000,1,1,,,40,43,3,https://www.remax.com.ar/420161237-167?associate=420161237,Team Ali,NO,,,,,,,,,,,
+44,Lote,403 e/ Centenario y 24,"Villa Elisa, Barrio Privado Villalba",USD 119.000,,,,,,915,,https://www.remax.com.ar/420161455-22?associate=420161455,Team Ali,NO,,,,,,,,,,,
+46,PH,63 esq 28,La Plata,USD 67.000,2,2,Patio,1,96,108,1,https://www.remax.com.ar/420161202-459?associate=420161202,Team Ali,SI,"📍59 e/ 23 y 24 | 🛏️2 dorm | 📏 57  m² | 🌳Patio | 💰 USD $60.000
+https://www.remax.com.ar/420441151-56?associate=420161202
+
+📍17 e/ 64 y 65 | 🛏️2 dorm | 📏 60  m² | 🌳Patio | 💰 USD $61.000
+https://www.remax.com.ar/420341134-81?associate=420161202
+
+📍27 e/ 66 y 67 | 🛏️2 dorm | 📏 63  m² | 🌳Patio | 💰 USD $45.000
+https://www.remax.com.ar/421921011-45?associate=420161202
+
+📍66 esq 27 | 🛏️2 dorm | 📏 50 m² | 🌳Patio | 💰 USD $49.000
+https://www.remax.com.ar/421941046-37?associate=420161202
+
+📍14 e/ 70 y 71 | 🛏️2 dorm | 📏 50 m² | 🌳Patio | 💰 USD $62.000
+https://www.remax.com.ar/420341143-42?associate=420161202
+",,,,,,"📍71 e/ 18 y 19 | 🛏️2 dorm | 📏 54 m² | 🌳Patio | 💰 USD $73.000
+https://www.remax.com.ar/421921005-82?associate=420161202
+
+📍21 e/ 63 y 64 | 🛏️2 dorm | 📏 62 m² | 🌳Patio | 💰 USD $79.900
+https://www.remax.com.ar/420711129-274?associate=420161202
+
+📍26 e/ 66 y 67 | 🛏️2 dorm | 📏 63 m² | 🌳Patio | 💰 USD $75.000
+https://www.remax.com.ar/420161202-471
+
+📍17 e/ 67 y 68 | 🛏️2 dorm | 📏 81 m² | 🌳Patio | 💰 USD $72.000
+https://www.remax.com.ar/420711072-257?associate=420161202
+",,,,
+48,Casa,473 Bis e/ 17 y 19,City bell,USD 700.000,3,2,p+Parque,2,310,680,,https://www.remax.com.ar/420161202-474?associate=420161202,Team Ali,NO,,,,,,,,,,,
+49,Casa,27 e/ 496 y 497,Gonnet,USD 389.000,3,2,Parque,2,228,615,,https://www.remax.com.ar/420161202-475?associate=420161202,Team Ali,NO,"
+📍485 e/ 18 y 19 | 🛏️ 3 dorm | 📏 131 m² | 🌳 Parque | 💰 USD $320.000
+https://www.remax.com.ar/420711013-181?associate=420161202
+",,,,,,"📍18 e/ 491 y 491 bis | 🛏️ 3 dorm | 📏 340 m² | 🌳 Parque | 💰 USD $480.000
+https://www.remax.com.ar/420711158-104?associate=420161202
+
+📍486 e/ 18 y 19 | 🛏️ 4 dorm | 📏 436 m² | 🌳 Parque | 💰 USD $430.000
+https://www.remax.com.ar/420161282-96?associate=420161202",,,,
+50,Casa,Belgrano e/ ortiz de Ocampo y Matienzo,Quilmes,USD 145.000,3,2,,2,182,333,,https://www.remax.com.ar/420161202-476?associate=420161202,Team Ali,NO,,,,,,,,,,,
+51,Departamento,33 e/ 8 y  9,La Plata,USD 65.000,1,1,,1,36,36,1,https://www.remax.com.ar/420161237-168?associate=420161237,Team Ali,NO,,,,,,,,,,,
+52,Departamento,"39 e/ 5 y 6 ",La Plata,USD 46.500,1,1,,,35,35,1,https://www.remax.com.ar/420161237-171?associate=420161237,Team Ali,NO,https://web.redremax.com/420711032-308?associate=420161202,https://web.redremax.com/420161181-170?associate=420161202,https://web.redremax.com/421941011-20?associate=420161202,https://web.redremax.com/420341174-60?associate=420161202,https://web.redremax.com/420441184-95?associate=420161202,,https://web.redremax.com/421921008-14?associate=420161202,https://web.redremax.com/420441194-4?associate=420161202,https://web.redremax.com/420341144-25?associate=420161202,https://web.redremax.com/420341185-43?associate=420161202,https://web.redremax.com/420441144-96?associate=420161202
+53,Departamento,62 e/ 3 y 4,La Plata,USD 68.000,3,1,,,80,85,2,https://www.remax.com.ar/420161455-7?associate=420161455,Team Ali,SI,,,,,,,,,,,
+55,Departamento,61 e/ 12 y 13,La Plata,USD 178.000,2,2,,1,97,119,9,https://www.remax.com.ar/420161455-19?associate=420161455,Team Ali,SI,,,,,,,,,,,
+57,Casa,"461b e/ 14 a y 14 c ",City Bell,USD 159.500,2,2,Parque,1,75,97,,https://www.remax.com.ar/420161202-479?associate=420161202,Team Ali,NO,"📍 480 bis e/  25 y 26| 🛏️3 dorm | 📏 158  m² | 🌳Pileta | 💰 USD $140.000
+https://www.remax.com.ar/420161280-128?associate=420161202
+",,,,,,"📍466 e/ 28 bis y 30  | 🛏️3 dorm | 📏 120  m² | 🌳Parque | 💰 USD $165.000
+https://www.remax.com.ar/420441151-66?associate=420161202
+
+📍472 e/ 27 y 28  | 🛏️3 dorm | 📏 252  m² | 🌳Pileta | 💰 USD $185.000
+https://www.remax.com.ar/420161137-494?associate=420161202
+
+📍467 e/ 30 y 31  | 🛏️3 dorm | 📏 135  m² | 🌳Parque | 💰 USD $163.000
+https://www.remax.com.ar/420161159-249?associate=420161202
+",,,,
+58,Departamento,60 e/ 15 y 16,La Plata,USD 158.000,2,1,Balcon,1,75,81,9,https://www.remax.com.ar/420161237-172?associate=420161237,Team Ali,NO,"📍 43 e/ 13 y 14 | 🛏️ 2 dorm | 📏 75 m² | 🏢  Terraza | 💰 USD $ 125.000
+https://www.remax.com.ar/420441128-317?associate=420161202
+
+📍 46 e/ 18 y 19 | 🛏️ 2 dorm | 📏 74 m² | 🏢  Balcón | 💰 USD $ 125.000
+https://www.remax.com.ar/421921037-93?associate=420161202
+
+📍 14 e/ 45 y 46 | 🛏️ 2 dorm | 📏 75 m² | 🏢  Balcón | 💰 USD $ 119.500
+https://www.remax.com.ar/420711122-100?associate=420161202
+
+📍 51 e/ 28 y 29 | 🛏️ 2 dorm | 📏 64 m² | 🏢  Balcón | 💰 USD $ 142.000
+https://www.remax.com.ar/420161185-142?associate=420161202
+
+📍 19 y 66 | 🛏️ 2 dorm | 📏 67 m² | 🏢  Balcón | 💰 USD $ 155.000
+https://www.remax.com.ar/420441154-130?associate=420161202
+","📍 63 e/ 11 y 12 | 🛏️ 2 dorm | 📏 87 m² | 🏢  Balcón y Terraza| 💰 USD $ 148.000
+https://www.remax.com.ar/420161073-202?associate=420161202
+
+📍 58 e/ 3 y 4 | 🛏️ 2 dorm | 📏 58 m² | 🏢  Balcón | 💰 USD $ 120.000
+https://www.remax.com.ar/422121013-8?associate=420161202
+
+📍 3 e/ 49 y 50 | 🛏️ 2 dorm | 📏 85 m² | 🏢  Balcón | 💰 USD $ 155.000
+https://www.remax.com.ar/421921006-89?associate=420161202
+
+📍 43 e/ 13 y 14 | 🛏️ 2 dorm | 📏 75 m² | 🏢  Balcón | 💰 USD $ 125.000
+https://www.remax.com.ar/420441128-317?associate=420161202
+
+📍 38 e/ 26 y 27 | 🛏️ 2 dorm | 📏 80 m² | 🏢  Balcón | 💰 USD $ 145.000
+https://www.remax.com.ar/421921006-46?associate=420161202
+","📍 63 e/ 14 y 15 | 🛏️ 2 dorm | 📏 58 m² | 🏢  Balcón | 💰 USD $ 104.000
+https://www.remax.com.ar/421941012-68?associate=420161202
+
+📍 9 e/ 60 y 61 | 🛏️ 2 dorm | 📏 65 m² | 🏢  Balcón | 💰 USD $ 130.000
+https://www.remax.com.ar/420711169-43?associate=420161202
+
+📍 51 e/ 4 y 5 | 🛏️ 2 dorm | 📏 62 m² | 🏢  Balcón | 💰 USD $ 139.000
+https://www.remax.com.ar/420161359-26?associate=420161202
+",,,,"📍 45 e/  6 y 7 | 🛏️ 2 dorm | 📏 79 m² | 🏢  Balcón | 💰 USD $ 165.000
+https://www.remax.com.ar/420161164-285?associate=420161202
+
+📍 61 e/ 12 y 13| 🛏️ 2 dorm | 📏 97 m² | 🏢  Balcón | 💰 USD $ 178.000
+https://www.remax.com.ar/420161455-19?associate=420161202
+
+📍 15 e/ 38 y 39| 🛏️ 2 dorm | 📏 116 m² | 🏢  Balcón | 💰 USD $ 195.000
+https://www.remax.com.ar/420161164-261?associate=420161202 
+
+
+📍 3 e/ 39 y 40| 🛏️ 2 dorm | 📏 97 m² | 🏢  Balcón | 💰 USD $ 159.000
+https://www.remax.com.ar/420441151-30?associate=420161202
+
+📍 54 e/ 23 y 24| 🛏️ 2 dorm | 📏 93 m² | 🏢  Balcón | 💰 USD $ 200.000
+https://www.remax.com.ar/420441070-176?associate=420161202
+
+","📍 15 e/ 45 y 46| 🛏️ 2 dorm | 📏 100 m² | 🏢  Balcón | 💰 USD $ 189.000
+https://www.remax.com.ar/420161043-460?associate=420161202
+
+📍 51 e/ 3 y 4| 🛏️ 2 dorm | 📏 82  m² | 🏢  Balcón | 💰 USD $ 180.000
+https://www.remax.com.ar/421921026-214?associate=420161202
+
+📍 38 e/ 16 y 17| 🛏️ 3 dorm | 📏 116  m² | 🏢  Balcón | 💰 USD $ 165.000
+https://www.remax.com.ar/420161085-462?associate=420161202
+
+📍 15 e/ 43 y 44| 🛏️ 3 dorm | 📏 98  m² | 🏢  Balcón | 💰 USD $ 165.000
+https://www.remax.com.ar/420161137-500?associate=420161202
+",,,
+59,Casa,Haras del Sur II,Brandsen,USD 240.000,3,2,Parque,2,248,1233,,https://www.remax.com.ar/420161202-480?associate=420161202,Team Ali,,"📍Haras del Sur II | 🛏️3 dorm | 📏 129  m² | 🌳Parque | 💰 USD $195.000
+ https://ficha.propio.com.ar/8M3vvN3ux75JJA2f
+
+📍Haras del Sur II | 🛏️2 dorm | 📏 122  m² | 🌳Parque | 💰 USD $179.000
+ https://ficha.propio.com.ar/GktJRSxJxANHEwtc
+
+📍Haras del Sur II | 🛏️3 dorm | 📏 1008  m² de lote | 🌳Parque | 💰 USD $250.000
+ https://ficha.propio.com.ar/x8kv6akimC1Ay9ps
+
+📍Haras del Sur II | 🛏️4 dorm | 📏 300  m² | 🌳Parque | 💰 USD $245.000
+https://ficha.propio.com.ar/7-lIiuSLsSFLxZcl
+
+📍Haras del Sur II | 🛏️3 dorm | 📏 129  m² | 🌳Parque | 💰 USD $195.000
+ https://ficha.propio.com.ar/9qt3j5ISbofYCfNY
+",,,,,,"📍Haras del Sur II | 🛏️3 dorm | 📏 160  m² | 🌳Parque | 💰 USD $270.000
+ https://ficha.propio.com.ar/LDu45obarWWjXrYC
+
+📍Haras del Sur II | 🛏️4 dorm | 📏 180  m² | 🌳Parque | 💰 USD $289.000
+ https://ficha.propio.com.ar/L8WgTLj0axTRAI85
+
+📍Haras del Sur II | 🛏️4 dorm | 📏 180  m² | 🌳Parque | 💰 USD $289.000
+ https://ficha.propio.com.ar/bXKr3A6kCId8TmT1
+
+",,,,
+63,PH,26 e/66 y 67,La Plata,USD 75.000,2,1,NO,0,63,63,1,https://www.remax.com.ar/420161202-471?associate=420161202,TeamAli,NO,,,,,,,,,,,
+64,Casa,31 e/ 490 y 491,City Bell,USD 165.000,3,2,Parque,2,117,300,,https://www.remax.com.ar/420161237-180?associate=420161237,TeamAli,NO,"📍508 y 25 | 🛏️ 2 dorm | 📏96  m² | 🌳  Parque  | 💰 USD $144.000
+https://www.remax.com.ar/420561141-133?associate=420161237
+
+📍505 e/ 28 y 29 | 🛏️ 2 dorm | 📏124  m² | 🌳  Parque  | 💰 USD $159.000
+https://www.remax.com.ar/420711129-241?associate=420161237
+
+📍24 e/ 498 y 499 | 🛏️ 2 dorm | 📏172  m² | 🌳  Parque  | 💰 USD $160.000
+https://www.remax.com.ar/420711111-177?associate=420161237
+
+📍26 e/ 497 y 498 | 🛏️ 2 dorm | 📏140  m² | 🌳  Parque  | 💰 USD $144.999
+https://www.remax.com.ar/420161395-60?associate=420161237
+
+📍20 e/ 508 509 | 🛏️ 2 dorm | 📏71  m² | 🌳  Parque  | 💰 USD $130.000
+https://www.remax.com.ar/420161282-199?associate=420161237
+",,,,,,"📍487 e/ 16 y 16bis | 🛏️ 3 dorm | 📏160  m² | 🌳  Parque  | 💰 USD $170.000
+https://ficha.propio.com.ar/1AyNk9CN0n_jXdBT
+📍483 e/ 23 y 24 | 🛏️ 3 dorm | 📏170  m² | 🌳  Parque  | 💰 USD $180.000
+ https://ficha.propio.com.ar/XLO-4ejeSwKLauws
+
+📍23 e/ 495 y 496 | 🛏️ 3 dorm | 📏176  m² | 🌳  Parque  | 💰 USD $160.000
+https://ficha.propio.com.ar/Jn6UWQHNdE17_A_f
+",,,,
+65,Casa,2 e/ Avenida Calchaqui y 101,Berazategui,USD 150.000,3,2,si,3,140,500,,https://www.remax.com.ar/420161237-176?associate=420161237,TeamAli,NO,"📍Avenida Florencio Varela y 140 | 🛏️4 dorm | 📏140  m² | 🌳terraza  | 💰 USD $99.000
+https://www.remax.com.ar/420171212-74?associate=420161237
+
+📍 134 e/ 17 y 18 | 🛏️3 dorm | 📏 165 m² | 🌳Parque | 💰 USD $115.00
+https://www.remax.com.ar/420171174-17?associate=420161237
+
+
+📍 20 esq 143 | 🛏️2 dorm | 📏 125 m² | 🌳Parque | 💰 USD $130.000
+https://www.remax.com.ar/420171182-33?associate=420161237
+
+📍 Gral M. Necochea e/ Finochietto y Gonzalez Balcarce | 🛏️3 dorm | 📏 138 m² | 🌳Parque| 💰 USD $130.000
+https://www.remax.com.ar/421731003-67?associate=420161237 
+
+
+📍6 e/ 102 y 103 | 🛏️3 dorm | 📏 302 m² | 🌳Parque | 💰 USD $145.000
+ https://www.remax.com.ar/421061009-231?associate=420161237
+
+
+",,,,,,"📍14 y 115 | 🛏️5 dorm | 📏 170 m² | 🌳Patio| 💰 USD $150.000
+https://www.remax.com.ar/420531090-190?associate=420161237
+
+📍 8 y 136 | 🛏️3 dorm | 📏 108 m² | 🌳Parque | 💰 USD $155.000
+https://www.remax.com.ar/421731005-87?associate=420161237
+
+
+📍12 e/ 140 y 141 | 🛏️3 dorm | 📏 200 m² | 🌳Parque | 💰 USD $180.000
+https://www.remax.com.ar/420711129-271?associate=420161237
+
+
+",,,,
+66,Casa,466 e/ 24 y 25," City Bell"," USD 160.000",3,2,SI," 2",150,663,,https://www.remax.com.ar/420161202-487?associate=420161202,TeamAli,NO,"📍 480 bis e/  25 y 26| 🛏️3 dorm | 📏 158  m² | 🌳Pileta | 💰 USD $140.000
+https://www.remax.com.ar/420161280-128?associate=420161202
+",,,,,,"
+📍466 e/ 28 bis y 30  | 🛏️3 dorm | 📏 120  m² | 🌳Parque | 💰 USD $165.000
+https://www.remax.com.ar/420441151-66?associate=420161202
+
+📍472 e/ 27 y 28  | 🛏️3 dorm | 📏 252  m² | 🌳Pileta | 💰 USD $185.000
+https://www.remax.com.ar/420161137-494?associate=420161202
+
+📍467 e/ 30 y 31  | 🛏️3 dorm | 📏 135  m² | 🌳Parque | 💰 USD $163.000
+https://www.remax.com.ar/420161159-249?associate=420161202
+",,,,
+67,PH,27 e/ 40 y 41,La Plata,USD 90.000,2,1,Patio,,78,78,UF 2,https://www.remax.com.ar/420161202-477?associate=420161202,TeamAli,NO,"📍32 esq 24  | 🛏️2 dorm | 📏 80  m² | 🌳Patio | 💰 USD $89.000
+https://www.remax.com.ar/421941046-12?associate=420161202
+
+📍48 e/ 29 y 30  | 🛏️2 dorm | 📏 62  m² | 🌳Patio | 💰 USD $85.000
+https://www.remax.com.ar/420711115-112?associate=420161202
+
+📍7 e/ 33 y 34 | 🛏️2 dorm | 📏 78  m² | 🌳Patio | 💰 USD $89.000
+https://www.remax.com.ar/421941012-61?associate=420161202
+
+📍 Diag 96 e/26 y Plza 19 de Nov | 🛏️2 dorm | 📏 53 m² | 🌳Patio | 💰 USD $79.000
+https://www.remax.com.ar/420531144-424?associate=420161202
+
+",,,,,,"📍40 e/ 13 y 14  | 🛏️2 dorm | 📏 79  m² | 🌳Patio | 💰 USD $104.000
+https://www.remax.com.ar/420161280-130?associate=420161202
+
+📍50 e/ 15 y 16  | 🛏️2 dorm | 📏103   m² | 🌳Patio | 💰 USD $124.000
+https://www.remax.com.ar/420711174-67?associate=420161202
+
+📍43 e/ 12 y 13  | 🛏️2 dorm | 📏 100  m² | 🌳Parque | 💰 USD $129.000
+https://www.remax.com.ar/420161489-12?associate=420161202
+
+📍57 e/ 23 y 24 | 🛏️3 dorm | 📏 135  m² | 🌳terraza | 💰 USD $135.000
+https://www.remax.com.ar/420441063-200?associate=420161202
+
+",,,,
+68,Casa,6 e/ 33 y 34,La Plata,USD 620.000,4,3,Parque,2,400,376,,https://www.remax.com.ar/420161202-488?associate=420161202,TeamAli,NO,,,,,,,,,,,
+69,Casa,134 e/ 417 y 418,Villa Elisa,USD 385.000,4,2,"Parque ",2,400,798,,https://www.remax.com.ar/420161202-485?associate=420161202,TeamAli,NO,,,,,,,,,,,
+70,Lote,Miralagos II,Brandsen,USD 55.000,,,,,,1467,,https://www.remax.com.ar/420161202-482?associate=420161202,TeamAli,NO,,,,,,,,,,,
+71,Casa,45 e/ 12 y 13,La Plata,USD 400.000,4,3,Patio,1,300,156,,https://www.remax.com.ar/420161202-489?associate=420161202,TeamAli,,,,,,,,,,,,
+72,Casa,8 esq 47," Villa Elisa",USD 200.000,"3 ",1,Parque,2,160,578,,https://www.remax.com.ar/420161202-470?associate=420161202,TeamAli,NO,"📍 49 e/ 15 y 16 | 🛏️ 3 dorm | 📏 220 m² | 🌳 Parque | 💰 USD $ 180.000
+https://www.remax.com.ar/420161156-206?associate=420161237
+",,,,,,"
+📍 7 e/ 420 y 421  | 🛏️ 3 dorm | 📏 260 m² | 🌳 Parque | 💰 USD $ 240.000
+https://www.remax.com.ar/420161185-117?associate=420161237
+
+
+📍 413 e/ 21 A y 21 C | 🛏️ 3 dorm | 📏 243 m² | 🌳 Parque | 💰 USD $ 270.000
+https://www.remax.com.ar/420161273-77?associate=420161237
+
+
+📍 407 e/ 23 y 24 | 🛏️ 3 dorm | 📏 250 m² | 🌳 Parque | 💰 USD $ 299.000
+https://www.remax.com.ar/421941006-32?associate=420161237
+
+
+📍 20 e/ 43 y 44 | 🛏️ 4 dorm | 📏 286 m² | 🌳 Parque | 💰 USD $ 320.000
+https://www.remax.com.ar/420161417-8?associate=420161237
+
+📍 19 bis e/ 421 y 422 | 🛏️ 4 dorm | 📏 215 m² | 🌳 Parque | 💰 USD $ 320.000
+https://www.remax.com.ar/420161237-148
+
+
+📍 411 e/ 21 A  y 22 | 🛏️ 3 dorm | 📏 160 m² | 🌳 Parque | 💰 USD $ 350.000
+https://www.remax.com.ar/420711158-111?associate=420161237
+
+
+📍 408 e/ 24 y 25 | 🛏️ 5 dorm | 📏 400 m² | 🌳 Parque | 💰 USD $ 400.000
+https://www.remax.com.ar/421941006-32?associate=420161237
+",,,,
+73,Departamento,25 e/ 71 y 72,La Plata,USD 60.500,1,1,Balcon,,40,43,1,https://www.remax.com.ar/420161455-25?associate=420161455,TeamAli,NO,,,,,,,,,,,
+74,Casa,Av Antartida esq 10,Tolosa,USD 270.000,4,3,Terraza,,160,144,,https://www.remax.com.ar/420161455-24?associate=420161455,,,,,,,,,,,,,
+75,Casa,33 e/ 115 y 116,La Plata,USD 95.000,3,2,Patio,2,200,200,,https://www.remax.com.ar/420161455-23?associate=420161455,TeamAli,NO,,,,,,,,,,,
+76,Departamento,2 e/ 57 y 58,La Plata,USD 140.000,2,1,Patio,,90,170,PB,https://www.remax.com.ar/420161455-17?associate=420161455,TeamAli,NO,,,,,,,,,,,
+77,Departamento,45 e/ 24 y 25,"La Plata ",USD 110.000,2,1,Balcon,NO,55,60,3,https://www.remax.com.ar/420161237-182?associate=420161237,Team Ali,"NO ","
+📍 18 e/ 38 y 39 | 🛏️ 2 dorm | 📏 73 m² | 🏢  Patio | 🚗 Cochera | 💰 USD $ 80.000
+https://www.remax.com.ar/420441173-17?associate=420161202
+
+📍 45 e/ 9 y 10 | 🛏️ 2 dorm | 📏 64 m² | 🏢  Balcón | 🚗 Cochera | 💰 USD $ 88.000
+https://www.remax.com.ar/420711013-179?associate=420161202
+
+📍 41 e/ 16 y 17 | 🛏️ 2 dorm | 📏 57 m² | 🏢  Balcón | 💰 USD $ 98.000
+https://www.remax.com.ar/420161141-168?associate=420161202
+
+📍 7 e/ 43 y Plaza Italia | 🛏️ 2 dorm | 📏 85 m² |   💰 USD $ 100.000
+https://www.remax.com.ar/420161282-192?associate=420161202
+
+📍 50 e/ 21 y 22 | 🛏️ 2 dorm | 📏 73 m² | 🏢  Balcón | 🚗 Cochera | 💰 USD $ 110.000
+https://www.remax.com.ar/420441128-319?associate=420161202
+","📍 44 e/ 22 y 23 | 🛏️ 2 dorm | 📏 68 m² | 🏢  Balcón |  💰 USD $ 110.000
+https://www.remax.com.ar/420711023-173?associate=420161202
+
+📍 17 e/ 43 y 44 | 🛏️ 2 dorm | 📏 88 m² |  🚗 Cochera | 💰 USD $ 110.000
+https://www.remax.com.ar/420341175-23?associate=420161202
+
+📍 60 e/ 9 y 10 | 🛏️ 2 dorm | 📏 52 m² | 🏢  Balcón | 🚗 Cochera |  💰 USD $ 110.000
+https://www.remax.com.ar/420441194-14?associate=420161202
+",,,,,"📍 43 e/ 13 y 14 | 🛏️ 2 dorm | 📏 75 m² | 🏢  Terraza | 💰 USD $ 125.000
+https://www.remax.com.ar/420441128-317?associate=420161202
+
+📍 51 e/ 4 y 5 | 🛏️ 2 dorm | 📏 63 m² | 🏢  Balcón | 🚗 Cochera |  💰 USD $ 139.000
+https://www.remax.com.ar/420161359-26?associate=420161202
+
+📍 43 e/ 16 y 17 | 🛏️ 2 dorm | 📏 93 m² | 🏢  Balcón | 🚗 Cochera |  💰 USD $ 160.000
+https://www.remax.com.ar/420161085-594?associate=420161202
+
+📍 18 e/ 49 y 50 | 🛏️ 2 dorm | 📏 74 m² | 🏢  Balcón | 💰 USD $ 165.000
+https://www.remax.com.ar/420161395-67?associate=420161202
+
+
+📍 54 e/ 23 y 24 | 🛏️ 2 dorm | 📏 93 m² | 🏢  Balcón | 🚗 Cochera |  💰 USD $ 200.000
+https://www.remax.com.ar/420161085-594?associate=420161202
+",,,,
+78,Casa,6 e/ 33 y 34,La Plata,USD 620.000,4,3,SI,SI / 2,400,376,,https://www.remax.com.ar/420161202-488?associate=420161202,Team Ali,"NO ","📍 61 e/ 13 y 14 | 🛏️ 3 dorm | 📏 268 m² | 🌳 Patio | 🚗 Cochera | 💰 USD $ 250.000
+https://www.remax.com.ar/421941033-63?associate=420161237
+
+📍 22 e/ 44 y 45 | 🛏️ 3 dorm | 📏 194 m² | 🌳 Patio | 🚗 Cochera | 💰 USD $ 260.000
+ ⁠https://www.remax.com.ar/420711174-80?associate=420161237
+
+📍 20 e/ 43 y 44 | 🛏️ 3 dorm | 📏 286 m² | 🌳 Patio | 🚗 Cochera | 💰 USD $ 320.000
+⁠https://www.remax.com.ar/421941012-89?associate=420161237
+",,,,,,,,,,
